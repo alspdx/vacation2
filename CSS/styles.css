@@ -1,5 +1,6 @@
 #headerimage {
   max-width: 100%;
+  border-radius: 20px;
 }
 
 .cardimage {
@@ -10,4 +11,16 @@
 
 .textcenter {
   text-align: center;
+}
+
+.justify{
+  text-align: center;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+font-family: 'Gravitas One', cursive;
 }
