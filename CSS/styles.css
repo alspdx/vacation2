@@ -1,0 +1,13 @@
+#headerimage {
+  max-width: 100%;
+}
+
+.cardimage {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.textcenter {
+  text-align: center;
+}
